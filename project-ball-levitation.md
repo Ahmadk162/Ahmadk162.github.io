@@ -25,7 +25,7 @@ Le système est composé de :
 - Un **ruban LED** intégré au tube pour la visualisation en temps réel de la position
 
 L’objectif est de **maintenir la balle à une position verticale désirée** en contrôlant la vitesse de rotation du ventilateur.
-
+assets/images/structure.drawio.png
 ---
 
 ## 3. Architecture embarquée
