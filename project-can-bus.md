@@ -120,6 +120,7 @@ Une application développée sous **MATLAB** permet :
 
 Cette séparation reflète une **architecture industrielle réaliste**.
 
+![CANbus matlab](assets/images/CANbus_matlab.png)
 ---
 
 ## 8. Résultats et apports techniques
