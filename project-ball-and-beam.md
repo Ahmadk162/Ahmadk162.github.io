@@ -115,6 +115,8 @@ Une interface de supervision a été développée sous **MATLAB App Designer**.
 
 MATLAB n’intervient **pas** dans la boucle de contrôle, garantissant l’autonomie et le caractère temps réel du système embarqué.
 
+![Ball and bean matlab](assets/images/BallAndBeam_matlab.png)
+
 ---
 
 ## 8. Caractère non linéaire du système
