@@ -3,13 +3,10 @@ layout: default
 title: Projects
 ---
 
-## 🔹 Système embarqué IoT – ESP32
+## 🔹 Lévitation de balle – Système de contrôle non linéaire
 
-Système IoT basé sur ESP32 intégrant acquisition capteurs, FreeRTOS et communications réseau industrielles.
+Système expérimental de lévitation de balle basé sur ESP32, utilisé pour l’enseignement et le test de stratégies de contrôle en boucle ouverte et fermée.
 
-👉 [Voir le projet](project-embedded-iot.md)
+👉 [Voir le projet](project-ball-levitation.md)
 
-System architecture design, energy KPIs, documentation
-
-➡️ *Technical report available on request*
 
