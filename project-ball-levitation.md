@@ -9,6 +9,7 @@ title: Lévitation de balle – Système de contrôle non linéaire
 Ce projet consiste à développer un **système de lévitation de balle** destiné à l’**enseignement du contrôle-commande** et à l’**expérimentation de lois de contrôle** sur un système réel.
 
 Le dispositif met en œuvre un système **non linéaire instable**, couramment utilisé comme banc d’essai pour illustrer les différences fondamentales entre **commande en boucle ouverte** et **commande en boucle fermée**.
+
 🎥 **Démonstration vidéo **  
 
 👉 <https://www.youtube.com/shorts/atcOL_jQtLA>
