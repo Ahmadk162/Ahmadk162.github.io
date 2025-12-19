@@ -10,7 +10,7 @@ Ce projet consiste à développer un **système de lévitation de balle** destin
 
 Le dispositif met en œuvre un système **non linéaire instable**, couramment utilisé comme banc d’essai pour illustrer les différences fondamentales entre **commande en boucle ouverte** et **commande en boucle fermée**.
 
-🎥 **Démonstration vidéo **  
+🎥 **Démonstration vidéo **
 
 👉 <https://www.youtube.com/shorts/atcOL_jQtLA>
 
