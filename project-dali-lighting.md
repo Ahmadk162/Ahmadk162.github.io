@@ -12,7 +12,7 @@ L’objectif est de concevoir une solution **embarquée et interopérable** perm
 
 ![DALI_frame](assets/images/DALI-frame.png)
 
-![MATLABApp DALI](assets/images/DALI_structure.PNG)
+![DALI_structure](assets/images/DALI_structure.PNG)
 
 ---
 
@@ -66,7 +66,9 @@ Le système peut être supervisé via :
 - une communication réseau (selon configuration)
 
 L’architecture est conçue pour être compatible avec des systèmes de gestion technique du bâtiment (GTB).
+
 ![MATLABApp DALI](assets/images/DALI_matlab.png)
+
 ---
 
 ## 6. Outils et technologies utilisés
@@ -83,6 +85,8 @@ L’architecture est conçue pour être compatible avec des systèmes de gestion
 - Implémentation d’une communication temps réel fiable
 - Conception d’un système d’éclairage modulaire
 - Compréhension des problématiques d’éclairage intelligent en bâtiment
+
+![DALI_result](assets/images/DALI_result.png)
 
 ---
 
