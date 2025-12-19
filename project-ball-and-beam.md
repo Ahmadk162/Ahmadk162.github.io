@@ -20,7 +20,7 @@ L’objectif principal est de démontrer la mise en œuvre complète d’un **sy
 
 ## 2. Description du système physique et architecture globale
 
-![Ball_and_beam_structure](assets/images/Ball_and_beam_structuredrawio.png)
+![Ball_and_beam_structure](assets/images/Ball_and_beam_structure.drawio.png)
 
 Le système est constitué d’une **poutre inclinable**, sur laquelle une **balle peut se déplacer librement** sous l’effet de la gravité.  
 L’inclinaison de la poutre est commandée par un **servomoteur**, permettant de modifier la dynamique du déplacement de la balle.
