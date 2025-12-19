@@ -57,7 +57,7 @@ Le système peut être supervisé via :
 - une communication réseau (selon configuration)
 
 L’architecture est conçue pour être compatible avec des systèmes de gestion technique du bâtiment (GTB).
-
+![MATLABApp DALI](assets/images/DALI_matlab.png)
 ---
 
 ## 6. Outils et technologies utilisés
