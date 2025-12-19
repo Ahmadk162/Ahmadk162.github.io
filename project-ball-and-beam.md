@@ -5,8 +5,6 @@ title: Système Ball & Beam – Contrôle non linéaire embarqué
 
 # Système Ball & Beam – Contrôle non linéaire embarqué
 
-🎥 *Démonstration vidéo disponible via le portfolio*  
-
 ---
 
 ## 1. Contexte du projet
