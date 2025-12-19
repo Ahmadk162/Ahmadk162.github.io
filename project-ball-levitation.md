@@ -80,7 +80,7 @@ MATLAB est utilisé uniquement pour :
 - définir les paramètres (PID, durée de l’expérience, type de scénario)
 - lancer les expériences
 - récupérer les données mesurées
-![Interface graphique MATLAB pour la supervision du système de lévitation de balle](assets/images/Ball levitation.png)
+![Interface graphique MATLAB pour la supervision du système de lévitation de balle](assets/images/Ball_levitation.png)
 ---
 
 ## 6. Acquisition et exploitation des données
