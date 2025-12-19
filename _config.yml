@@ -1,6 +1,11 @@
 title: Ahamad Kansoun
 description: Ingénieur en électronique et systèmes embarqués | Microcontrôleurs • Conception électronique • PCB • FreeRTOS • IoT
-theme: jekyll-theme-merlot
+theme: minima
+
+header_pages:
+  - index.md
+  - projects.md
+  - cv.md
 
 
 author:
