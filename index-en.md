@@ -40,6 +40,11 @@ My work covers the full development cycle, from **hardware design and simulation
 
 ---
 
+## 🌍 Langue
+- 👉 [English version](index-en.md)
+
+---
+
 ## 📌 Navigation
 - 👉 [Projects](projects.md)
 - 👉 [Curriculum Vitae](cv.md)
