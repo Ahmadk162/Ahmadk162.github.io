@@ -43,17 +43,22 @@ L’objectif est de concevoir une solution **embarquée et interopérable** perm
 ---
 
 ## 4. Fonctionnalités implémentées
-- Commande individuelle des luminaires
-- Variation d’intensité lumineuse
-- Détection de présence
-- Ajustement automatique en fonction de la luminosité ambiante
-- Scénarios d’éclairage programmables
+
+- **Commande individuelle des luminaires** via adressage court (short address)
+- **Commande groupée des luminaires** (group addressing)
+- **Variation de l’intensité lumineuse** (dimming)
+- **Détection de présence** pour l’activation automatique de l’éclairage
+- **Scan automatique du bus DALI** pour la détection des drivers connectés
+- **Attribution et modification des adresses courtes (short addresses)** des drivers
+- **Création et gestion des groupes DALI**
+- **Ajustement automatique de l’éclairage** en fonction de la luminosité ambiante
+
 
 ---
 
 ## 5. Communication et supervision
 Le système peut être supervisé via :
-- une interface locale embarquée
+- une interface MATLABApp
 - une communication réseau (selon configuration)
 
 L’architecture est conçue pour être compatible avec des systèmes de gestion technique du bâtiment (GTB).
