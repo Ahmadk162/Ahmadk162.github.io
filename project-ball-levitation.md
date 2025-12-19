@@ -26,7 +26,8 @@ Le système est composé de :
 
 L’objectif est de **maintenir la balle à une position verticale désirée** en contrôlant la vitesse de rotation du ventilateur.
 
-assets/images/structure.drawio.png
+![Structure du système de lévitation de balle](assets/images/structure.drawio.png)
+
 ---
 
 ## 3. Architecture embarquée
