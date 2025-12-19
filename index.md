@@ -1,28 +1,50 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
 
-# Ahamad Kansoun
+# KANSOUN Ahamad
 
-**Control Systems & Energy Systems Engineer**  
-Digital Twin • Hybrid PVT Systems • Real-Time Monitoring & Control
+**Ingénieur en électronique et systèmes embarqués**  
+Microcontrôleurs • Conception électronique • PCB • FreeRTOS • IoT
 
-I am an engineer working on **energy systems modeling, control, and digital twins**, with a strong focus on **hybrid photovoltaic–thermal (PVT) systems**, **thermal storage**, and **real-time monitoring architectures**.  
-My work combines **physical modeling**, **embedded systems**, and **real-time data integration** for research and applied energy projects.
+Ingénieur spécialisé en **systèmes embarqués et électronique**, avec une expérience couvrant l’ensemble du cycle de développement :  
+**conception matérielle**, **simulation**, **développement firmware**, **communication industrielle** et **intégration IoT**.
 
 ---
 
-## 🔧 Technical Skills
-- **Modeling & Simulation:** MATLAB / Simulink, system-level thermal modeling
-- **Control:** PID, rule-based control, real-time simulation
-- **Embedded Systems:** ESP32, sensors, Modbus TCP/IP
-- **Energy Systems:** PVT-water, thermal storage, HVAC subsystems
-- **Data & Tools:** Python, Node-RED, Git, LaTeX
+## 🔧 Compétences techniques
+
+### Systèmes embarqués
+- ESP32, STM32, Arduino, Raspberry Pi  
+- Développement bare-metal et **FreeRTOS**
+
+### Électronique & conception PCB
+- Schémas électroniques et routage PCB  
+- **Outils CAO :** Altium Designer, EasyEDA  
+
+### Simulation & validation
+- Proteus, Cadence  
+
+### Langages de programmation
+- C / C++, Python, Arduino C  
+
+### Bus & protocoles de communication
+- CAN, SPI, I²C, Modbus  
+- MQTT, HTTP(S), TCP/IP, UDP  
+
+### Jumeau numérique & modélisation
+- MATLAB / Simulink  
+- MATLAB App Designer  
+
+---
+
+## 🌍 Langue
+- 👉 [English version](index-en.md)
 
 ---
 
 ## 📌 Navigation
-- 👉 [Projects](projects.md)
+- 👉 [Projets](projects.md)
 - 👉 [Curriculum Vitae](cv.md)
-- 👉 [GitHub](https://github.com/your_github_username)
+- 👉 [GitHub](https://github.com/Ahmadk162)
