@@ -22,3 +22,12 @@ sur une poutre inclinable en ajustant l’angle de la poutre via un servomoteur.
 Le contrôle est exécuté en temps réel sur ESP32 à partir de mesures multi-capteurs.
 
 👉 [Voir le projet](project-ball-and-beam.md)
+
+## 🔹 Réseau CAN multi-nœuds et communication OBD-II
+
+Mise en œuvre d’un réseau CAN réel basé sur ESP32, intégrant une communication
+bidirectionnelle entre microcontrôleurs, le pilotage distant de LEDs et la
+simulation d’un ECU OBD-II avec affichage des données sur un tableau de bord F12.
+
+👉 [Voir le projet](project-can-bus.md)
+
