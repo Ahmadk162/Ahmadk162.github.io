@@ -14,6 +14,8 @@ Ce projet vise à implémenter un **système réel de contrôle embarqué**, dan
 
 L’objectif principal est de démontrer la mise en œuvre complète d’un **système de contrôle temps réel sur microcontrôleur**, incluant la mesure, le calcul de la commande, l’actionnement et la supervision.
 
+🎥 **Démonstration vidéo **  
+
 👉 <https://www.youtube.com/watch?v=WiT9M9kRNLs&list=PLP_rFSxPx1fHSOocTPxHAXtn5v9XiCN_c>
 
 ---
