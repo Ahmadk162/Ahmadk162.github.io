@@ -1,12 +1,13 @@
 title: Ahamad Kansoun
-description: Control Systems & Energy Systems Engineer | Digital Twin | PVT Systems
+description: Ingénieur en électronique et systèmes embarqués
+Microcontrôleurs • Conception électronique • PCB • FreeRTOS • IoT
 theme: minima
 
 author:
   name: Ahamad Kansoun
-  email: ahamad.kansoun@u-picardie.fr
+  email: ahmadk162@gmail.com
 
-github_username: your_github_username
+github_ahmadk162: ahmadk162
 linkedin_username: your_linkedin_username
 
 markdown: kramdown
