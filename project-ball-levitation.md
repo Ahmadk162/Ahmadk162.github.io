@@ -26,7 +26,7 @@ Le système est composé de :
 
 L’objectif est de **maintenir la balle à une position verticale désirée** en contrôlant la vitesse de rotation du ventilateur.
 
-![Structure du système de lévitation de balle](assets/images/structure.drawio.png)
+![Structure du système de lévitation de balle](assets/images/Ball_levitation_structure.drawio.png)
 
 ---
 
@@ -84,7 +84,7 @@ MATLAB est utilisé uniquement pour :
 - définir les paramètres (PID, durée de l’expérience, type de scénario)
 - lancer les expériences
 - récupérer les données mesurées
-![Interface graphique MATLAB pour la supervision du système de lévitation de balle](assets/images/Ball_levitation.png)
+![Interface graphique MATLAB pour la supervision du système de lévitation de balle](assets/images/Ball_levitation_matlab.png)
 ---
 
 ## 6. Acquisition et exploitation des données
