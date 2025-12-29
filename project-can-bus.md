@@ -140,7 +140,3 @@ Ce projet a permis de :
 - Extension à CAN FD
 - Intégration avec un système de diagnostic avancé
 - Enregistrement et analyse des trames CAN
-
----
-
-🔗 **Code source et documentation** : disponibles sur demande ou via GitHub
