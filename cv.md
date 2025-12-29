@@ -5,13 +5,13 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-You can download my full CV here:
+Vous pouvez télécharger mon CV complet ici :
 
-👉 **[Download CV (PDF)](assets/cv/CV_KANOUSN_Ahamad.pdf)**
+👉 **[Télécharger le CV (PDF)](assets/cv/CV_KANOUSN_Ahamad.pdf)**
 
 ---
 
-## Short Profile
-- Control & energy systems engineer
-- Experience in research projects and experimental platforms
-- Strong focus on modeling, simulation, and real-time systems
+## Profil court
+- Ingénieur en systèmes de contrôle et systèmes énergétiques
+- Expérience dans des projets de recherche et des plateformes expérimentales
+- Forte expertise en modélisation, simulation et systèmes temps réel
