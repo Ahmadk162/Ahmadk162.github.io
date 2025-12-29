@@ -54,6 +54,26 @@ interface sensors with embedded controllers.
 
 > **Typical use cases:** analog front-end, sensor interfacing, data acquisition.
 
+### TCD1304DG Linear CCD Interface Board
+
+**Type:** Measurement and sensor interface PCB  
+**Purpose:** Acquisition of position data from a TCD1304DG linear CCD sensor  
+**Application:** Ball position / level measurement in control experiments  
+**Status:** Design completed – fabrication pending
+
+This PCB is designed to interface a **TCD1304DG linear CCD sensor** with an
+embedded controller for **optical position measurement**.
+
+The board handles:
+- electrical interfacing of the CCD sensor
+- routing of clock and control signals
+- signal output transmission via **UART** to another microcontroller
+
+This architecture allows the sensor acquisition stage to be decoupled from the
+main control unit, improving modularity and flexibility in experimental setups.
+
+<img src="assets/images/PCB/TCD-pcb.png" alt="TCD-pcb" width="50%">
+
 ---
 
 ## 4. Design Tools & Workflow
