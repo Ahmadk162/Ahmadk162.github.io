@@ -43,10 +43,22 @@ L’objectif est de concevoir une solution **embarquée et interopérable** perm
   - acquisition capteurs
   - communication DALI
   - logique de contrôle
-
+    
 ---
 
-## 4. Fonctionnalités implémentées
+## 4 Conception du PCB (Shield ESP32 → DALI-2 Click)
+
+Pour faciliter l’intégration matérielle et obtenir un montage reproductible, j’ai conçu un **PCB shield** permettant de connecter la carte **ESP32 du laboratoire** (déjà développée) au module **DALI-2 Click**.
+
+Ce shield assure :
+- une **interconnexion propre** (connecteurs, signaux, alimentation)
+- une **réduction des erreurs de câblage** par rapport à un montage sur breadboard
+- une meilleure **robustesse mécanique** pour les tests et démonstrations
+![DALI_PCB_3D](assets/images/DALI-frame.png)
+![DALI_PCB](assets/images/DALI-PCB.png)
+---
+
+## 5. Fonctionnalités implémentées
 
 - **Commande individuelle des luminaires** via adressage court (short address)
 - **Commande groupée des luminaires** (group addressing)
@@ -60,7 +72,7 @@ L’objectif est de concevoir une solution **embarquée et interopérable** perm
 
 ---
 
-## 5. Communication et supervision
+## 6. Communication et supervision
 Le système peut être supervisé via :
 - une interface MATLABApp
 - une communication réseau (selon configuration)
@@ -71,7 +83,7 @@ L’architecture est conçue pour être compatible avec des systèmes de gestion
 
 ---
 
-## 6. Outils et technologies utilisés
+## 7. Outils et technologies utilisés
 - **Microcontrôleur :** ESP32  
 - **Protocole :** DALI  
 - **Langages :** C / C++  
@@ -80,7 +92,7 @@ L’architecture est conçue pour être compatible avec des systèmes de gestion
 
 ---
 
-## 7. Résultats et acquis techniques
+## 8. Résultats et acquis techniques
 - Maîtrise du protocole DALI et de ses contraintes physiques
 - Implémentation d’une communication temps réel fiable
 - Conception d’un système d’éclairage modulaire
@@ -90,12 +102,8 @@ L’architecture est conçue pour être compatible avec des systèmes de gestion
 
 ---
 
-## 8. Perspectives d’évolution
+## 9. Perspectives d’évolution
 - Intégration d’une interface utilisateur avancée
 - Connexion à une plateforme IoT
 - Gestion énergétique et statistiques d’usage
 - Extension à des installations multi-zones
-
----
-
-🔗 **Code source et documentation** : disponibles sur demande ou via GitHub
