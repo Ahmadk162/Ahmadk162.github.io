@@ -45,6 +45,28 @@ board, intended for autonomous operation.
 
 > **Typical use cases:** embedded control, sensor acquisition, actuator driving.
 
+### Brushless Linear Motor Control Board (Hall-Based Commutation)
+
+**Type:** Standalone motor control interface PCB  
+**Purpose:** Control and commutation of a brushless linear motor using Hall sensors  
+**Sensors:** 3 Hall effect position sensors  
+**Status:** Design completed – fabrication pending
+
+This PCB is designed to control a **brushless linear motor** based on feedback
+from **three Hall effect sensors**, enabling position-aware commutation and
+motion control.
+
+The board handles:
+- acquisition and conditioning of Hall sensor signals
+- generation of motor control signals
+- interfacing with an external controller or power stage
+- structured routing for time-critical motor signals
+
+The design targets laboratory and research applications where precise motion
+control and modular integration with higher-level controllers are required.
+
+<img src="assets/images/PCB/linear-motor-pcb.png" alt="linear-motor-pcb" width="50%">
+
 ---
 
 ## 3. Measurement & Signal Conditioning Boards
