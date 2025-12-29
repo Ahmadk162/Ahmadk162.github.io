@@ -19,21 +19,21 @@ Ingénieur spécialisé en **systèmes embarqués et électronique**, avec une e
 - ESP32, STM32, Arduino, Raspberry Pi  
 - Développement bare-metal et **FreeRTOS**
 
-### Électronique & conception PCB
+### **Électronique & conception PCB**
 - Schémas électroniques et routage PCB  
 - Outils CAO : Altium Designer, EasyEDA  
 
-### Simulation & validation
+### **Simulation & validation**
 - Proteus, Cadence  
 
-### Langages de programmation
+### **Langages de programmation**
 - C / C++, Python, Arduino C  
 
-### Bus & protocoles de communication
+### **Bus & protocoles de communication**
 - CAN, SPI, I²C, Modbus  
 - MQTT, HTTP(S), TCP/IP, UDP  
 
-### Jumeau numérique & modélisation
+### **Jumeau numérique & modélisation**
 - MATLAB / Simulink  
 - MATLAB App Designer  
 
