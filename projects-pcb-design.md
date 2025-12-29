@@ -70,8 +70,8 @@ The PCB has been fabricated and successfully integrated into a laboratory
 magnetic levitation setup used for control experiments.
 
 <img src="assets/images/PCB/TCD-pcb.png" alt="TCD-pcb" width="50%">
-<img src="assets/images/PCB/TCD1.png" alt="TCD1" width="50%">
-<img src="assets/images/PCB/TCD2.png" alt="TCD2" width="50%">
+<img src="assets/images/PCB/TCD1.PNG" alt="TCD1" width="50%">
+<img src="assets/images/PCB/TCD2.PNG" alt="TCD2" width="50%">
 ---
 
 ## 4. Design Tools & Workflow
