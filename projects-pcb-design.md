@@ -28,6 +28,9 @@ breadboard-based solutions.
 > **Typical use cases:** communication interfaces, protocol adapters,
 laboratory test setups.
 
+<img src="assets/images/DALI-frame.png" alt="DALI PCB 3D view" width="60%">
+
+
 ---
 
 ## 2. Standalone Control Boards
