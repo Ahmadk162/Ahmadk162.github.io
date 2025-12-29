@@ -149,6 +149,3 @@ Ce projet a permis de :
 - Identification du modèle dynamique
 - Intégration avec un jumeau numérique
 
----
-
-🔗 **Code source et documentation** : disponibles sur demande ou via GitHub
