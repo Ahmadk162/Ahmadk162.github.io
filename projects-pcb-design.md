@@ -28,7 +28,7 @@ une seule carte, destinés à un fonctionnement autonome.
 > **Cas d’usage typiques :** commande embarquée, acquisition de capteurs,
 pilotage d’actionneurs.
 
-### **Carte de commande de moteur linéaire brushless (commutation par capteurs Hall)**
+### **1.1. Carte de commande de moteur linéaire brushless (commutation par capteurs Hall)**
 
 **Type :** Carte d’interface de commande moteur autonome  
 **Objectif :** Commande et commutation d’un moteur linéaire brushless à l’aide de capteurs Hall  
@@ -51,7 +51,7 @@ contrôleurs de plus haut niveau.
 
 <img src="assets/images/PCB/linear-motor-pcb.png" alt="linear-motor-pcb" width="50%">
 
-### **Carte de commande d’électroaimant et de mesure de la position de la bille**
+### **1.2. Carte de commande d’électroaimant et de mesure de la position de la bille**
 
 **Type :** Carte autonome de commande et de mesure  
 **Objectif :** Actionnement d’un électroaimant et mesure de la position de la bille  
@@ -81,7 +81,7 @@ en temps réel.
 
 ## 2. Cartes de mesure et de conditionnement du signal
 
-### **Carte d’interface CCD linéaire TCD1304DG**
+### **2.1. Carte d’interface CCD linéaire TCD1304DG**
 
 **Type :** Carte d’interface de mesure et de capteur  
 **Objectif :** Acquisition de données de position à partir d’un capteur CCD
@@ -120,7 +120,7 @@ rapport aux solutions basées sur des breadboards.
 > **Cas d’usage typiques :** interfaces de communication, adaptateurs de
 protocole, bancs de test de laboratoire.
 
-### **Shield d’interface ESP32 ↔ Driver moteur Arduino**
+### **3.1. Shield d’interface ESP32 ↔ Driver moteur Arduino**
 
 **Type :** Carte d’interface / shield  
 **Objectif :** Adaptation mécanique et électrique entre ESP32 et drivers moteur
@@ -141,7 +141,7 @@ en bénéficiant des capacités de calcul et de communication de l’ESP32.
 
 <img src="assets/images/PCB/motor-driver-pcb.png" alt="motor-driver-pcb" width="50%">
 
-### **Plateforme de développement ESP32 du laboratoire**
+### **3.2. Plateforme de développement ESP32 du laboratoire**
 
 Plusieurs cartes d’interface et shields présentés dans ce projet sont conçus
 pour fonctionner avec une **carte de développement ESP32 personnalisée
@@ -156,7 +156,7 @@ Cette carte de développement fournit :
 Cette plateforme est utilisée comme **cœur commun de commande et de
 communication** dans plusieurs expériences de laboratoire et de recherche.
 
-### **Approche d’extension matérielle basée sur des shields**
+### **3.3. Approche d’extension matérielle basée sur des shields**
 
 Afin de garantir la modularité, la reproductibilité et le prototypage rapide,
 une **architecture matérielle basée sur des shields** a été adoptée autour de la
