@@ -67,6 +67,28 @@ control and modular integration with higher-level controllers are required.
 
 <img src="assets/images/PCB/linear-motor-pcb.png" alt="linear-motor-pcb" width="50%">
 
+### Electromagnet Control and Ball Position Measurement Board
+
+**Type:** Standalone control and measurement PCB  
+**Purpose:** Electromagnet actuation and ball position measurement  
+**Sensor:** Hall effect sensor (analog output)  
+**Application:** Magnetic ball levitation control experiment  
+**Status:** Design completed – fabrication pending
+
+This PCB is designed for **closed-loop control of an electromagnet** combined
+with **ball position measurement** using a Hall-effect sensor.
+
+The board integrates:
+- a power switching stage for electromagnet control (MOSFET + protection diode)
+- analog signal conditioning using an **LM324 operational amplifier**
+- Hall-effect sensor interface for position measurement
+- analog output routed to an external controller ADC
+
+The architecture separates power and measurement paths, making the board
+well-suited for experimental control setups and real-time control validation.
+
+<img src="assets/images/PCB/magnetic-ball-pcb.png" alt="magnetic-ball-pcb" width="50%">
+
 ---
 
 ## 3. Measurement & Signal Conditioning Boards
