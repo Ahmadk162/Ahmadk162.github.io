@@ -28,6 +28,7 @@ une seule carte, destinés à un fonctionnement autonome.
 > **Cas d’usage typiques :** commande embarquée, acquisition de capteurs,
 pilotage d’actionneurs.
 
+
 ### Carte de commande de moteur linéaire brushless (commutation par capteurs Hall)
 
 **Type :** Carte d’interface de commande moteur autonome  
