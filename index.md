@@ -17,7 +17,7 @@ Ingénieur spécialisé en **systèmes embarqués et électronique**, avec une e
 
 ### **Systèmes embarqués**
 - ESP32, STM32, Arduino, Raspberry Pi  
-- Développement bare-metal et **FreeRTOS**
+- Développement bare-metal et FreeRTOS
 
 ### **Électronique & conception PCB**
 - Schémas électroniques et routage PCB  
