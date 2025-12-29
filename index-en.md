@@ -46,6 +46,6 @@ My work covers the full development cycle, from **hardware design and simulation
 ---
 
 ## 📌 Navigation
-- 👉 [Projects](projects.md)
+- 👉 [Projects](projects-en.md)
 - 👉 [Curriculum Vitae](cv.md)
 - 👉 [GitHub](https://github.com/Ahmadk162)
