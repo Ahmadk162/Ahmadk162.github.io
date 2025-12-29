@@ -49,31 +49,29 @@ board, intended for autonomous operation.
 
 ## 3. Measurement & Signal Conditioning Boards
 
-PCBs dedicated to signal acquisition, conditioning, or measurement, designed to
-interface sensors with embedded controllers.
-
-> **Typical use cases:** analog front-end, sensor interfacing, data acquisition.
-
 ### TCD1304DG Linear CCD Interface Board
 
 **Type:** Measurement and sensor interface PCB  
 **Purpose:** Acquisition of position data from a TCD1304DG linear CCD sensor  
-**Application:** Ball position / level measurement in control experiments  
-**Status:** Design completed – fabrication pending
+**Application:** Ball position measurement in a magnetic levitation experiment  
+**Status:** Fabricated and integrated in experimental setup
 
-This PCB is designed to interface a **TCD1304DG linear CCD sensor** with an
-embedded controller for **optical position measurement**.
+This PCB interfaces a **TCD1304DG linear CCD sensor** with an **ESP32
+microcontroller** to perform optical position measurement based on shadow
+detection.
 
-The board handles:
+The board provides:
 - electrical interfacing of the CCD sensor
 - routing of clock and control signals
-- signal output transmission via **UART** to another microcontroller
+- acquisition and preprocessing on ESP32
+- **UART communication** to an external controller for closed-loop control
 
-This architecture allows the sensor acquisition stage to be decoupled from the
-main control unit, improving modularity and flexibility in experimental setups.
+The PCB has been fabricated and successfully integrated into a laboratory
+magnetic levitation setup used for control experiments.
 
 <img src="assets/images/PCB/TCD-pcb.png" alt="TCD-pcb" width="50%">
-
+<img src="assets/images/PCB/TCD1.png" alt="TCD1" width="50%">
+<img src="assets/images/PCB/TCD2.png" alt="TCD2" width="50%">
 ---
 
 ## 4. Design Tools & Workflow
