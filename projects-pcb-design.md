@@ -28,7 +28,12 @@ breadboard-based solutions.
 > **Typical use cases:** communication interfaces, protocol adapters,
 laboratory test setups.
 
-<img src="assets/images/DALI-frame.png" alt="DALI PCB 3D view" width="60%">
+<img src="assets/images/PCB/BLDC-pcb.png" alt="BLDC" width="50%">
+<img src="assets/images/PCB/bldc-fan-pcb.png" alt="bldc-fan-pcb" width="50%">
+<img src="assets/images/PCB/can-pcb.png" alt="can-pcb" width="50%">
+<img src="assets/images/PCB/clab-pcb.png" alt="clab-pcb" width="50%">
+<img src="assets/images/PCB/solar-kit2-pcb.png" alt="solar-kit2-pcb" width="50%">
+<img src="assets/images/PCB/solar-kit-pcb.png" alt="solar-kit-pcb" width="50%">
 
 
 ---
