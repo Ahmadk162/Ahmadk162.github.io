@@ -10,7 +10,7 @@ Ce projet porte sur le développement d’un **système d’éclairage intellige
 
 L’objectif est de concevoir une solution **embarquée et interopérable** permettant le pilotage individuel et collectif de luminaires, avec intégration de capteurs et de scénarios d’automatisation.
 
-![DALI_frame](assets/images/DALI-frame.png)
+![DALI_frame](assets/images/DALI-PCB_3D.png)
 
 ![DALI_structure](assets/images/DALI_structure.PNG)
 
