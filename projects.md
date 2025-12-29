@@ -16,7 +16,8 @@ Le projet couvre :
 Ces PCB sont utilisés comme briques matérielles dans plusieurs systèmes
 expérimentaux (lévitation de balle, moteurs, éclairage DALI, réseaux CAN).
 
-👉 [Voir le projet](project-pcb-design.md)
+👉 [Voir le projet](projects-pcb-design.md)
+
 
 ## 🔹 Lévitation de balle – Système de contrôle non linéaire
 
