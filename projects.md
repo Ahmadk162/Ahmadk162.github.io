@@ -3,6 +3,21 @@ layout: default
 title: Projects
 ---
 
+## 🔹 Conception de PCB et interfaces matérielles pour systèmes embarqués
+
+Conception et développement de circuits imprimés personnalisés pour des
+applications de commande, de mesure et d’interfaçage matériel en laboratoire.
+
+Le projet couvre :
+- des cartes de commande autonomes (moteurs, électroaimants)
+- des cartes de mesure et de conditionnement de signaux
+- des shields d’interface autour d’une plateforme ESP32 développée au laboratoire
+
+Ces PCB sont utilisés comme briques matérielles dans plusieurs systèmes
+expérimentaux (lévitation de balle, moteurs, éclairage DALI, réseaux CAN).
+
+👉 [Voir le projet](project-pcb-design.md)
+
 ## 🔹 Lévitation de balle – Système de contrôle non linéaire
 
 Système expérimental de lévitation de balle basé sur ESP32, utilisé pour l’enseignement et le test de stratégies de contrôle en boucle ouverte et fermée.
