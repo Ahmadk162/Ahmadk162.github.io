@@ -41,7 +41,7 @@ My work covers the full development cycle, from **hardware design and simulation
 ---
 
 ## 🌍 Langue
-- 👉 [French version](index.md)
+- 👉 [French version](index-en.md)
 
 ---
 
