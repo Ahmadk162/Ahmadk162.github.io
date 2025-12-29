@@ -18,27 +18,7 @@ practices (signal integrity, power routing, modularity).
 
 ---
 
-## 1. Interface & Shield Boards
-
-PCBs designed to interface existing development boards with external modules,
-communication buses, or power stages.  
-These boards improve wiring reliability and system robustness compared to
-breadboard-based solutions.
-
-> **Typical use cases:** communication interfaces, protocol adapters,
-laboratory test setups.
-
-<img src="assets/images/PCB/BLDC-pcb.png" alt="BLDC" width="50%">
-<img src="assets/images/PCB/bldc-fan-pcb.png" alt="bldc-fan-pcb" width="50%">
-<img src="assets/images/PCB/can-pcb.png" alt="can-pcb" width="50%">
-<img src="assets/images/PCB/clab-pcb.png" alt="clab-pcb" width="50%">
-<img src="assets/images/PCB/solar-kit2-pcb.png" alt="solar-kit2-pcb" width="50%">
-<img src="assets/images/PCB/solar-kit-pcb.png" alt="solar-kit-pcb" width="50%">
-
-
----
-
-## 2. Standalone Control Boards
+## 1. Standalone Control Boards
 
 Custom PCBs integrating a microcontroller and peripheral circuits on a single
 board, intended for autonomous operation.
@@ -91,7 +71,7 @@ well-suited for experimental control setups and real-time control validation.
 
 ---
 
-## 3. Measurement & Signal Conditioning Boards
+## 2. Measurement & Signal Conditioning Boards
 
 ### TCD1304DG Linear CCD Interface Board
 
@@ -116,6 +96,75 @@ magnetic levitation setup used for control experiments.
 <img src="assets/images/PCB/TCD-pcb.png" alt="TCD-pcb" width="50%">
 <img src="assets/images/PCB/TCD1.jpeg" alt="TCD1" width="50%">
 <img src="assets/images/PCB/TCD2.jpeg" alt="TCD2" width="50%">
+---
+
+## 3. Interface & Shield Boards
+
+PCBs designed to interface existing development boards with external modules,
+communication buses, or power stages.  
+These boards improve wiring reliability and system robustness compared to
+breadboard-based solutions.
+
+> **Typical use cases:** communication interfaces, protocol adapters,
+laboratory test setups.
+
+### ESP32 ↔ Arduino Motor Driver Interface Shield
+
+**Type:** Interface / shield board  
+**Purpose:** Mechanical and electrical adaptation between ESP32 and Arduino Uno motor driver boards  
+**Application:** Motor control experiments using ESP32 with Arduino-compatible drivers  
+**Status:** Design completed – fabrication pending
+
+This PCB is an **interface shield** designed to connect an **Arduino Uno–footprint
+motor driver board** to an **ESP32-based control system**.
+
+The shield provides:
+- footprint adaptation between Arduino Uno motor drivers and ESP32 headers
+- direct signal routing for control and power connections
+- a clean and reliable alternative to manual wiring
+
+This approach enables reuse of existing Arduino motor driver hardware while
+benefiting from the computational and communication capabilities of the ESP32.
+
+<img src="assets/images/PCB/motor-driver-pcb.png" alt="motor-driver-pcb" width="50%">
+
+### Laboratory ESP32 Development Platform
+
+Several interface and shield boards presented in this project are designed to
+work with a **custom ESP32-based development board developed in our laboratory**.
+
+This development board provides:
+- a **12 V DC input power supply**
+- onboard **3.3 V and 5 V regulated outputs** (up to 2 A)
+- ESP32 powered directly from the **3.3 V rail**
+- a standardized **GPIO pin header (shield interface)** for hardware expansion
+
+This platform is used as a **common control and communication core** in multiple
+laboratory and research experiments.
+
+### Shield-Based Hardware Extension Approach
+
+To ensure modularity, reproducibility, and rapid prototyping, a **shield-based
+hardware architecture** was adopted around the laboratory ESP32 development
+board.
+
+Each shield is designed to:
+- connect a specific peripheral, sensor, actuator, or communication interface
+- reuse the common power rails (3.3 V / 5 V) and GPIO layout
+- avoid manual wiring and breadboard-based connections
+- enable fast reconfiguration between experiments
+
+As a result, **multiple dedicated shield boards** were developed to interface
+the same ESP32 platform with different systems, including lighting control,
+motor drivers, sensors, and actuator interfaces.
+
+<img src="assets/images/PCB/BLDC-pcb.png" alt="BLDC" width="50%">
+<img src="assets/images/PCB/bldc-fan-pcb.png" alt="bldc-fan-pcb" width="50%">
+<img src="assets/images/PCB/can-pcb.png" alt="can-pcb" width="50%">
+<img src="assets/images/PCB/clab-pcb.png" alt="clab-pcb" width="50%">
+<img src="assets/images/PCB/solar-kit2-pcb.png" alt="solar-kit2-pcb" width="50%">
+<img src="assets/images/PCB/solar-kit-pcb.png" alt="solar-kit-pcb" width="50%">
+
 ---
 
 ## 4. Design Tools & Workflow
