@@ -119,7 +119,3 @@ L’utilisateur peut ensuite exploiter ces données pour :
 - Contrôle **temps réel embarqué**
 - Séparation claire supervision / contrôle
 - Architecture pédagogique et réutilisable
-
----
-
-🔗 **Code source et documentation** : disponibles sur demande ou via GitHub
