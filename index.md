@@ -40,11 +40,11 @@ Ingénieur spécialisé en **systèmes embarqués et électronique**, avec une e
 ---
 
 ## 🌍 Langue
-- 👉 [English version](index-en.md)
+- 👉 [English version](index-en.html)
 
 ---
 
 ## 📌 Navigation
-- 👉 [Projets](projects.md)
-- 👉 [Curriculum Vitae](cv.md)
+- 👉 [Projets](projects.html)
+- 👉 [Curriculum Vitae](cv.html)
 - 👉 [GitHub](https://github.com/Ahmadk162)
