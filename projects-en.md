@@ -8,14 +8,14 @@ title: Projects
 Experimental ball levitation system based on ESP32, used for teaching and
 testing open-loop and closed-loop control strategies.
 
-👉 [View project](project-ball-levitation-en.md)
+👉 [View project](project-ball-levitation-en.html)
 
 ## 🔹 Smart Lighting System Based on DALI
 
 Embedded smart lighting control system using the DALI protocol, integrating
 sensors and automation scenarios for intelligent buildings.
 
-👉 [View project](project-dali-lighting-en.md)
+👉 [View project](project-dali-lighting-en.html)
 
 ## 🔹 Ball & Beam System – Embedded Nonlinear Control
 
@@ -23,7 +23,7 @@ Experimental embedded control system regulating the position of a ball on an
 inclined beam by adjusting the beam angle using a servomotor.
 Control is executed in real time on an ESP32 using multi-sensor measurements.
 
-👉 [View project](project-ball-and-beam-en.md)
+👉 [View project](project-ball-and-beam-en.html)
 
 ## 🔹 Multi-node CAN Network and OBD-II Communication
 
@@ -31,7 +31,7 @@ Implementation of a real CAN network based on ESP32, including bidirectional
 communication between microcontrollers, remote LED control, and an OBD-II ECU
 emulator with data displayed on an F12 dashboard.
 
-👉 [View project](project-can-bus-en.md)
+👉 [View project](project-can-bus-en.html)
 
 ## 🔹 PCB Design & Hardware Interfaces
 
@@ -46,4 +46,4 @@ The project includes:
 These PCBs are used as hardware building blocks across multiple experimental
 systems (ball levitation, motors, DALI lighting, CAN networks).
 
-👉 [View project](project-pcb-design-en.md)
+👉 [View project](project-pcb-design-en.html)

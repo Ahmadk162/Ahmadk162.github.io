@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -41,11 +40,11 @@ My work covers the full development cycle, from **hardware design and simulation
 ---
 
 ## 🌍 Langue
-- 👉 [French version](index-en.md)
+- 👉 [French version](index.html)
 
 ---
 
 ## 📌 Navigation
-- 👉 [Projects](projects-en.md)
-- 👉 [Curriculum Vitae](cv-en.md)
+- 👉 [Projects](projects-en.html)
+- 👉 [Curriculum Vitae](cv-en.html)
 - 👉 [GitHub](https://github.com/Ahmadk162)
